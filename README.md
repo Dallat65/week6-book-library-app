@@ -2,7 +2,7 @@
 # EXPRESS 
 
 ### Setup
-1. Use and setup the project with `yarn`
+1. Use and setup the project with `yarn` 
 2. Convert the project to Typescript
 3. Initialize tsconfig
 4. Create .gitignore file to ignore the node_modules and other required folders
